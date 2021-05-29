@@ -4,7 +4,7 @@ A bash script for managing multiple versions of Vista by Chroma Q. Vista Version
 # Version History
 ## v1.0
 - basic version management
-- -v command
+- `-v` command
 
 ## v1.1
 - added `use` command
